@@ -79,7 +79,7 @@ int main(int argc, char* argv[])
 	std::cout << "Special thanks to tromp for providing optimized CPU equihash solver" << std::endl;
 	std::cout << std::endl;
 
-	std::string location = "zec.coinmine.pl:7007";
+	std::string location = "zcash.flypool.org:3333";
 	std::string user = "yourworker.1";
 	std::string password = "x";
 	int num_threads = -1;
